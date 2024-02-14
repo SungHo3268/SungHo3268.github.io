@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Papers
-subtitle: subtitle
 ---
 
-This page is for the description of paper published.
+### Conference
+* 2024
+  - 
+* 2023
+  - Wing-Lam Mok, SungHo Kim, "Mitigating Annotation Artifacts in Physical Commonsense Reasoning Benchmark," 2023 IEEE International Conference on Big Data (BigData), pp.6236-6238, Sorrento, Italy, Dec 2023
 
-- one
-- two
 
-What else do you need?
-
-### mm
-
-contents
+### Journal
+n/a
